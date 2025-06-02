@@ -138,9 +138,9 @@ function renderCountry(arr, list) {
                     <p class="text-[#111517] text-[14px] mt-[8px]">${item.capital}</p>
                 </div>
                 <div class="flex justify-between px-5 pb-5">
-                    <button class="w-[30%] py-[5px] border-[1px] border-solid rounded cursor-pointer">like</button>
-                    <button class="w-[30%] py-[5px] border-[1px] border-solid rounded cursor-pointer">saved</button>
-                    <button class="w-[30%] py-[5px] border-[1px] border-solid rounded cursor-pointer">edit</button>
+                    <button class="w-[30%] py-[5px] border-[1px] border-solid rounded cursor-pointer">Like</button>
+                    <button class="w-[30%] py-[5px] border-[1px] border-solid rounded cursor-pointer">Save</button>
+                    <button class="w-[30%] py-[5px] border-[1px] border-solid rounded cursor-pointer">More</button>
                 </div>
             </li>
         `
